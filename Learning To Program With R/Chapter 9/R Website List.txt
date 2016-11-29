@@ -1,0 +1,23 @@
+CRAN Homepage:
+http://cran.us.r-project.org/
+
+R Manual:
+http://cran.r-project.org/doc/manuals/R-intro.html
+
+R Blog Posts:
+http://www.r-bloggers.com/
+
+Style Guide - Google's suggested syntax layout:
+http://google-styleguide.googlecode.com/svn/trunk/Rguide.xml
+
+Stack Overflow - Community based questions and answers:
+http://stackoverflow.com/questions/tagged/r?sort=newest&pageSize=50
+
+The R Inferno - Deeper look at R and good program practices: 
+http://www.burns-stat.com/pages/Tutor/R_inferno.pdf
+
+Programming R - Website full of useful information:
+http://www.programmingr.com/
+
+Quick-R - easy to follow tutorials:
+http://www.statmethods.net/
